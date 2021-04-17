@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery plugin",
+    "description": "Simple plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Mehrad Haftsavar",
+        "url": "https://github.com/MehradHaftsavar/jquery.linkIt"
+    },
+    "maintainers": [
+        {
+            "name": "Mehrad Haftsavar",
+            "email": "mehrda0938@gmail.com",
+            "url": "https://github.com/MehradHaftsavar/jquery.linkIt"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/MehradHaftsavar/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/MehradHaftsavar/jquery.linkIt",
+    "docs": "https://github.com/MehradHaftsavar/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
